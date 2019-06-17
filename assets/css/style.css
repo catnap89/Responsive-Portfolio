@@ -285,7 +285,8 @@ input[type=submit] {
     }
 
     .container {
-        max-width: 688px;
+        max-width: 748px;
+        margin-left: 10px;
         margin-right: 10px;
     }
 
@@ -293,10 +294,7 @@ input[type=submit] {
         width: 350px;
     }
 
-    body {
-        padding-left: 10px;
-        padding-right: 10px;
-    }
+    
 }
 
 /* 640px */
@@ -334,8 +332,8 @@ input[type=submit] {
     }
 
     .container {
-        margin-left: 10px;
-        margin-right: 10px;
+        margin-left: 0;
+        margin-right: 0;
         max-width: 610px;
         width: 100%;
     }
