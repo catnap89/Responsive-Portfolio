@@ -306,6 +306,7 @@ input[type=submit] {
         position: static;
         margin-bottom: 20px;
         height: auto;
+       
     }
 
     .navbar {
@@ -332,11 +333,6 @@ input[type=submit] {
   
     }
 
-    .nav {
-        width: 100%;
-
-    }
-
     .container {
         margin-left: 10px;
         margin-right: 10px;
@@ -346,6 +342,18 @@ input[type=submit] {
 
     .profileImage {
         width: 100%;
+    }
+
+    .portfolio {
+        width: 100%;
+        height: auto;
+
+    }
+    
+    .portfolio img {
+        width: 100%;
+        
+       
     }
 
 
